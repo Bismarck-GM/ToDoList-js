@@ -8,16 +8,18 @@
 - delete tasks;
 - switch button to change the status of tasks that are organized by priority;
 - SideBar with links to display the tasks by: Today, Week, Projects or All of them.
+- Apply callback functions when the status of the ToDo's changes or it's deleted.
 
 ![home_page](./screenshot.gif)
 
 ## Built With
 
-- JavaScript
+- JavaScript (ES6)
+- NPM
 - Node.js
 - Webpack
-- Babel
 - Bulma
+- Bulma Calendar
 - SCSS
 - HTML
 - ESLint
@@ -25,7 +27,7 @@
 
 ## Live Demo
 
-- You can click on this [link](https://raw.githack.com/brugobi/ToDoList-js/todolist/dist/index.html)
+- You can click on this [link](https://bismarck-gm.github.io/ToDoList-js/)
 
 ## Getting Started
 
@@ -43,7 +45,7 @@ $ cd <directory>
 - Clone the repo typing:
 
 ```
-$ git clone git@github.com:brugobi/ToDoList-js.git
+$ git clone git@github.com:Bismarck-GM/ToDoList-js.git
 ```
 
 - Install dependencies:
