@@ -20,6 +20,7 @@
 - Webpack
 - Bulma
 - Bulma Calendar
+- Date-fns
 - SCSS
 - HTML
 - ESLint
